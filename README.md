@@ -5,13 +5,13 @@ Features include:
 - Allows users to find rooms using specified criteria
 
 
-![](https://github.com/timmlaxton/Appartments_App/blob/master/Screenshots/Homepage.png?raw=true)
+![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Homepage.png?raw=true)
 
 # Screenshots
 
-![](https://github.com/timmlaxton/Appartments_App/blob/master/Screenshots/Featured%20Rooms.png?raw=true)
+![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Accomodation.png?raw=true)
 
-![](https://github.com/timmlaxton/Appartments_App/blob/master/Screenshots/Rooms%20Criteria.png?raw=true)
+![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Rental%20Detail.png?raw=true)
 
 
 
