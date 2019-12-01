@@ -11,6 +11,8 @@ Features include:
 
 ![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Accomodation.png?raw=true)
 
+![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Rental%20List.png?raw=true)
+
 ![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Rental%20Detail.png?raw=true)
 
 
